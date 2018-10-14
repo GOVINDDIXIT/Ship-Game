@@ -1,2 +1,2 @@
 # Ship-Game
-A Simple ship game made with ❤️ in JAVA
+A Simple ship command line game made with ❤️ in JAVA
